@@ -1,5 +1,8 @@
 # rcooni
 
+<img width="635" height="356" alt="rcooni-social-2" src="https://github.com/user-attachments/assets/e06a61a4-b2aa-4d9d-9878-ca6f40054e27" />
+
+
 A minimal, **write-capable** issue tracker exposed over MCP — the Chapter 14 counterpart to the
 read-only [Kamori](https://ghcr.io/usekamori/kamori) log store. Same MCP protocol, opposite end of
 the consequence ladder: where Kamori is _queried_, rcooni is _written to_. Filing an issue crosses
